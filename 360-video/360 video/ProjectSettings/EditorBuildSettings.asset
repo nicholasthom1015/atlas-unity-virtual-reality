@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9698707b34f4731428bcb32c8348ed11
+  - enabled: 1
+    path: Assets/Scenes/Nebula.unity
+    guid: b0f2a74bf05edd246b11a05b326d4859
+  - enabled: 1
+    path: Assets/Scenes/Future.unity
+    guid: 8158f12ddb5a7d2449c99b14a68dd19d
+  - enabled: 1
+    path: Assets/Scenes/Space.unity
+    guid: e4f828531c6fe8c46b7997074fb879e2
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8c1d8be00a16c694e883fe0ceba0c559, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4779ad4ab1f887f47ae5bc2f4644bbe6, type: 2}
